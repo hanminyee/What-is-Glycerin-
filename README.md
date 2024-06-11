@@ -2,7 +2,7 @@
   
   ## 🎸 PopBand Glycerin 🎸
   
-<p align="center"><img src="https://cdn-api.sporky.ai/backends/template/293f050f-cf68-46ab-8936-c75634933ba3/156cd56be53f487591b54aa08fa9e1b1.png" height="300px" width="300px"></p>
+<p align="center"><img src="fixedPoster.jpg"></p>
   
 </div>
 
@@ -10,9 +10,8 @@
 #### 🎹 We are “Glycerin”, a pop band formed within Culcom
 #### 🎸 We aim to get to know each other through new people, new music, and break away from our boring lives.
 #### 🪕 Whether you're new to music or a musician looking to pick up an instrument again, our band is open to you.
-<div align="center">
-<p align="center"><img src="https://cdn-api.sporky.ai/backends/template/7c949808-90d5-4c42-bb90-5a6dd433fabe/e2c9e6632c2c4955bfb6e1928f2f5c77.png" height="500px" width="800px"></p>
-</div>
+
+<br/>
 
 ## 🔔When and where are we active?🔔
 
