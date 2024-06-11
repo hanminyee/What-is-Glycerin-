@@ -32,4 +32,4 @@
  - The membership fee is 15,000 KRW per month.
 
 ## 🥵 Ready to become a member of Glycerin?
-# Apply NOW!
+# Apply NOW! --> https://forms.gle/8asbrJShTN6dQcQt9
