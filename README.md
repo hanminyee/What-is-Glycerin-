@@ -21,7 +21,7 @@
  - We'll have a song for each member, and when we're done practicing, we'll post the song on YouTube and Instagram.
 
 ### 🔥 Once every two weeks, everyone gets together to get to know each other.
- - We meet on Saturdays at 10pm on the 2nd and 4th Wednesday of each month.
+ - We meet on Saturdays at 7pm on the 2nd and 4th Wednesday of each month.
  - If enough members request it, the time may change. However, the day of the week cannot be changed.
  - The meeting will be held at Culcom Busan University.
 
